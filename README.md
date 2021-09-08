@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @advin1369
-- 👀 I’m interested in php
-- 🌱 I’m currently learning php
-- 📫 How to reach me farooqshoib@gmail.com
+- 👀 I’m full stack php developer
+- 🌱 I’m currently learning laravel
+- 📫 How to reach me suhaib@plasticontech.com
 
 <!---
 advin1369/advin1369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
